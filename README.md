@@ -73,7 +73,7 @@ Você pode acessar o código do projeto ou [baixá-lo aqui](https://github.com/N
    streamlit run app.py
    ```
 
-O projeto também esta disponivel no própio sistema de deploy do Streamlit. Você pode acessa-lo [clicando aqui]().
+O projeto também esta disponivel no própio sistema de deploy do Streamlit. Você pode acessa-lo [clicando aqui](https://meis-analysis.streamlit.app).
 
 
 ---
