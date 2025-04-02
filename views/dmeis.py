@@ -5,7 +5,6 @@ import numpy as np
 from translations import traduzir
 from data_processing import read_file, angle_sum, rebine, export_spectrum, load_spectrum_file
 from plotting import plot_spectrum_with_save, plot_combined_spectra
-import plotly.colors
 
 
 def reset_dmeis_vars():
